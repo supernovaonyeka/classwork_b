@@ -1,0 +1,251 @@
+*{
+    margin: 0;
+    padding: 0;
+    max-width: 100%;
+}
+.div1 {
+    /* display: flex; */
+    font-size: 30px;
+}
+.div1 i{
+    margin-left: 93%;
+
+}
+.div2 {
+    display: flex;
+    margin-top: 20px;
+}
+
+.div3 {
+    background-color: rgb(51, 49, 49);
+    text-transform: capitalize;
+    padding: 60px;
+    margin-left: 30px;
+    position: absolute;
+    width: 60%;
+}
+.div3 h1{
+    font-size: 70px;
+    padding-top: 80px;
+    color: orange;
+}
+.div3 p{
+    font-size: 20px;
+    padding-top: 20px;
+    color: white;
+}
+.div3 h4{
+    font-size: 20px;
+    padding-top: 20px;
+    color: white;
+}
+.div3 button{
+    padding: 10px 30px;
+    text-transform: capitalize;
+    margin-top: 20px;
+    color: white;
+    border-color: white;
+    background-color: rgb(59, 56, 56);
+
+}
+
+
+.div4 img{
+    margin-top: 80px;
+    position: relative;
+    margin-left: 40rem;
+    height: 450px;
+    width: 450px;
+}
+.div4 {
+    float: right;
+}
+.div5 section {
+    background-color: orange;
+    padding: 100px;
+    padding-left: 240px;
+    margin-top: 30px;
+    padding-bottom: 300px;
+    margin-right: 30px;
+}
+
+.div6 h1{
+    font-size: 80px;
+    margin-top: 150px;
+}
+.div6 p{
+    font-size: 20px;
+    margin-top: 30px;
+}
+.div6 {
+    text-align: center;
+}
+.div7 img{
+    background-color: orange;
+    border-radius: 80px;
+    size: 10px;
+    width: 80px;
+    padding: 30px;
+}
+.div7 {
+    display: flex;
+}
+.div8 img{
+    background-color: orange;
+    border-radius: 80px;
+    size: 10px;
+    width: 80px;
+    padding: 30px;
+}
+.div8 {
+    display: flex;
+    margin-top: 60px;
+}
+.A {
+    padding-left: 150px;
+}
+.A h1{
+    text-align: justify;
+    margin-top: 5px;
+}
+.A p{
+    margin-top: 20px;
+}
+.div9 h1{
+    font-size: 70px;
+}
+.div9 p{
+    font-size: 20px;
+}
+.div9 {
+    text-align: center;
+}
+.div10b section{
+    background-color: orange;
+    width: 90%;
+    height: 450px;
+    margin-left: 5%;
+    position: absolute;
+}
+.div10 {
+    display: flex;
+    margin-top: 60px;
+}
+.div11 img{
+    position: relative;
+    margin-left: 30%;
+    margin-top: 70px;
+}
+.third {
+    margin-top: 200px;
+}
+.div12 {
+    display: flex;
+    width: 100%;
+}
+.div13 {
+    width: 50%;
+    margin-left: 120px;
+}
+.div13 button{
+    margin-top: 20px;
+    background-color: white;
+    color: rgb(3, 3, 3);
+    padding: 10px 10px;
+    width: 150px;
+
+}
+.div14 {
+    width: 50%;
+    margin-left: 200px;
+    text-align: center;
+}
+.fi h1{
+    font-size: 80px;
+    margin-top: 30px;
+}
+.fi p{
+    margin-top: 20px;
+    font-size: 20px;
+}
+.fb h3{
+    font-size: 30px;
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+.fb li{
+    font-size: 20px;
+    margin-bottom: 10px;
+}
+.fb p{
+    margin-top: 20px;
+    margin-bottom: 30px;
+}
+.fb button{
+    padding: 10px 50px; 
+    background-color: transparent; 
+    border: 2px solid gray;
+    text-transform: capitalize; 
+}
+.hi {
+    display: flex;
+    margin-top: 100px;
+    width: 100%;
+    background-color: black;
+    
+}
+.he {
+    background-color: orange;
+    width: 48%;
+    height: 500px;
+    margin-left: 70px;
+}
+.he input,textarea,button{
+    background-color: black;
+}
+.hm {
+    width: 48%;
+}
+.in {
+    display: flex;
+}
+.in input{
+    margin-left: 40px;
+    padding: 20px 40px;
+    margin-top: 30px;
+    border: 0;
+}
+.he h1{
+    text-transform: capitalize;
+    font-size: 60px;
+    margin-left: 10px;
+}
+.gg {
+    margin-top: 30px;
+    margin-left: 40px;
+}
+.he textarea{
+    margin-top: 30px;
+    margin-left: 40px;
+}
+.he button{
+    margin-top: 30px;
+    margin-left: 40px;
+    padding: 10px 40px;
+}
+.hm img{
+    height: 500px;
+}
+.or {
+    color: orange;
+    font-size: larger;
+}
+.ff {
+    margin-top: 50px;
+    text-align: center;
+}
+.fy {
+    margin-top: 90px;
+    text-align: center;
+    margin-bottom: 100px;
+}
